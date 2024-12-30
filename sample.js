@@ -1,5 +1,7 @@
-console.log(10+11);
-console.log(21-10);
-console.log(13*4);
-console.log(52/2);
-console.log(12%10);
+let meibo = {
+    20224:"新井太郎",
+    20031:"井上次郎",
+    20193:"山本花子"
+};
+console.log(meibo);
+console.log(meibo["20031"]);
